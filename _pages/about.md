@@ -16,4 +16,11 @@ I'm advising the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) w
 
 I'm also a co-lead investigator of [National Cybersecurity R&D Laboratory](https://ncl.sg).
 
-We are looking for curious minds to join our exploration. If you share the same view of the world, please do not hesitate to reach me. Curiosity is required, while mentality for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Ph.D. students, and postdoc research fellows.
+We are looking for curious minds to join our exploration. If you share the same passion, please do not hesitate to reach me. Curiosity is required, while skill and mentality for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Master/Ph.D. students, and postdoc research fellows.
+
+Updates
+======
+
+* August 2025. Our USENIX Security 2025 paper on PHP Fuzzing won the Outstanding Paper Award! 🎉
+
+More news and updates can be found on our group and lab's websites [Curiosity](https://curiosity.comp.nus.edu.sg/) [NCL](https://ncl.sg). 
