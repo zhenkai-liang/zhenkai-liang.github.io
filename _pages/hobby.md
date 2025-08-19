@@ -7,7 +7,6 @@ redirect_from:
   - /useless
 ---
 
-{% include base_path %}
+{% include toc %}
 
-Hobby
 ======
