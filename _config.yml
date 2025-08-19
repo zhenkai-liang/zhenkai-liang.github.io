@@ -23,12 +23,12 @@ repository               : "zhenkai-liang/zhenkai-liang.github.io"
 author:
   # Biographic information
   avatar           : "liangzk20.jpg"
-  name             : #"Your Sidebar Name"
+  name             : "Zhenkai Liang 梁振凯"
   pronouns         : # example: "she/her"  
   bio              : "Researcher and Educator in System and Security"
   location         : "Singapore"
   employer         : "National University of Singapore"
-  uri              : # URL
+  uri              : “https://www.comp.nus.edu.sg/~liangzk"
   email            : "liangzk@comp.nus.edu.sg" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "liangzk"
+  github           : # "liangzk"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
