@@ -23,14 +23,14 @@ repository               : "zhenkai-liang/zhenkai-liang.github.io"
 author:
   # Biographic information
   avatar           : "liangzk20.jpg"
-  name             : "Zhenkai Liang 梁振凯"
+  name             : "LIANG Zhenkai 梁振凯"
   pronouns         : # example: "she/her"  
   bio              : "Professor (Researcher and Educator) in Systems and Security"
+  location         : "Office: COM1 #03-16"
   employer         : "National University of Singapore"
   uri              : “https://www.comp.nus.edu.sg/~liangzk"
   email            : "liangzk@comp.nus.edu.sg" 
-  telephone        : "+65 65161226"
-  location         : "Office: COM1 #03-16"
+
 
   # Academic websites
   academia         : # URL
