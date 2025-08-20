@@ -29,8 +29,8 @@ author:
   employer         : "National University of Singapore"
   uri              : “https://www.comp.nus.edu.sg/~liangzk"
   email            : "liangzk@comp.nus.edu.sg" 
-  phone            : "+65 65161226"
-  location         : "COM1 #03-16, 13 Computing Drive, Singapore 117417"
+  telephone        : "+65 65161226"
+  location         : "COM1 #03-16, NUS Computing"
 
   # Academic websites
   academia         : # URL
