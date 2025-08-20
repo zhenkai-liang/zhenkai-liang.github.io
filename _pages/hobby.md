@@ -11,4 +11,4 @@ redirect_from:
 
 ======
 
-![Hobbies](/images/hobbies.jpg)
+![Hobbies](/images/hobbies.jpg){ width=30% }
