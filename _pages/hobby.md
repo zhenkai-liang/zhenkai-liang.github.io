@@ -9,6 +9,7 @@ redirect_from:
 
 {% include toc %}
 
+Sports, Music, and Research
 ======
 
-![Hobbies](/images/hobbies.jpg){ width=30% }
+<img src="/images/hobbies.jpg" width="50%">
