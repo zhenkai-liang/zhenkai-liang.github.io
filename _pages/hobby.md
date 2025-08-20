@@ -10,3 +10,5 @@ redirect_from:
 {% include toc %}
 
 ======
+
+![Hobbies](/images/hobbies.jpg)
