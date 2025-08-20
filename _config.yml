@@ -26,10 +26,11 @@ author:
   name             : "Zhenkai Liang 梁振凯"
   pronouns         : # example: "she/her"  
   bio              : "Professor (Researcher and Educator) in Systems and Security"
-  location         : "Singapore"
   employer         : "National University of Singapore"
   uri              : “https://www.comp.nus.edu.sg/~liangzk"
   email            : "liangzk@comp.nus.edu.sg" 
+  phone            : "+65 65161226"
+  location         : "COM1 #03-16, 13 Computing Drive, Singapore 117417"
 
   # Academic websites
   academia         : # URL
