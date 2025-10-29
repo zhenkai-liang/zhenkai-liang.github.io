@@ -16,7 +16,7 @@ I'm advising the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) w
 
 The ethos of our group: Be interesting people, do meaningful work.
 
-I'm also a co-lead Principal Investigator of [National Cybersecurity R&D Laboratory](https://ncl.sg).
+I'm also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory](https://ncl.sg).
 
 We are looking for curious minds to join our exploration. If you share the same passion, please do not hesitate to reach me. Curiosity is required, while skill and mentality for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Master/Ph.D. students, and postdoc research fellows.
 
