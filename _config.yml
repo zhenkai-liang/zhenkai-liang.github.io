@@ -28,7 +28,7 @@ author:
   bio              : "Educator and Researcher<br> Interesting in Being, Meaningful in Doing."
   location         : "Office: COM1 #03-16"
   employer         : "National University of Singapore"
-  uri              : “https://www.comp.nus.edu.sg/~liangzk"
+  uri              : #“https://www.comp.nus.edu.sg/~liangzk"
   email            : "liangzk@nus.edu.sg" 
 
 
