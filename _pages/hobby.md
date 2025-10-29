@@ -7,8 +7,6 @@ redirect_from:
   - /useless
 ---
 
-{% include toc %}
-
 Sports, Music, and Research
 ======
 I like riding and repairing bicycles. Recently I am trying tennis and trumpet. 
@@ -30,4 +28,4 @@ In all these pursuits, elegance and effectiveness form an optimization problem:
 how to minimize effort while maximizing impact. Only after balance and efficiency are achieved should force be deliberately added, 
 transforming balance and efficiency into power and outstanding performance.
 
-<img src="/images/hobbies.jpg" width="50%">
+<img src="https://www.comp.nus.edu.sg/~liangzk/images/hobbies.jpg" width="50%">
