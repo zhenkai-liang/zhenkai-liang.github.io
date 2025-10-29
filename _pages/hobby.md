@@ -19,9 +19,9 @@ Often, the most intuitive path toward that target turns out to be the wrong one.
 
 What truly matters is the elegance of the flow: the flow of curiosity and ideas in research, 
 the flow of body movement and coordination in sport, the flow of phrasing and breath in music. 
-Achieving the right balance often means easing off force rather than applying more; 
-too much effort can push us toward the wrong equilibrium. Once that flow is correctly aligned, 
-and the foundational techniques are practiced with care, the results emerge naturally—
+Achieving the right balance often requires easing off force rather than applying more; 
+too much effort can get us stuck in the wrong equilibrium. With the flow in mind, 
+once the foundational techniques are carefully practiced, the results emerge naturally—
 水到渠成 (“when the water arrives, the channel is formed”).
 
 In all these pursuits, elegance and effectiveness form an optimization problem: 
