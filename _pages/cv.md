@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+My full CV is [here](https://www.comp.nus.edu.sg/~liangzk/papers/liangzk-cv-full.pdf). 
 
 <!--
+{% include base_path %}
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
