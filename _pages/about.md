@@ -14,7 +14,7 @@ I'm advising the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) w
 * Abstract knowledge (提炼知识),
 * Connect facts (参悟规律).
 
-The ethos of our group: Be interesting people, do meaningful work.
+The ethos of our group: **Be interesting people, do meaningful work**.
 
 I'm also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory (NCL)](https://ncl.sg) of Singapore.
 
