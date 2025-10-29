@@ -13,6 +13,7 @@ I'm advising the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) w
 * Understand systems (理解系统),
 * Abstract knowledge (提炼知识),
 * Connect facts (参悟规律).
+
 The ethos of our group: Be interesting people, do meaningful work.
 
 I'm also a co-lead Principal Investigator of [National Cybersecurity R&D Laboratory](https://ncl.sg).
