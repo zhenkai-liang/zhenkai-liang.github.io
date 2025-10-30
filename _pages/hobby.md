@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Sports, Music, and Research
-======
+-----
 I like riding and repairing bicycles. Recently I am trying tennis and trumpet. 
 
 Through the long conditioning of a Ph.D. (“Permanent Head Damage”) training and my subsequent career, 
