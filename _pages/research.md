@@ -13,12 +13,24 @@ Research Directions
 -------------------
 
 ### Software security and malicious application analysis
+* Vulnerability discovery and analysis
+* Binary analysis and protection
+* Mobile malware analysis
 
 ### System security and cyber experimentation analysis
+* Kernel mechanisms for confidential computing
+* System provence mechanisms and analysis techniques
+* Cyber experimentation as code
 
 ### AI Security from system principles
+* Application of AI and recommendation system in software and system security
+* LLM security analysis using software security techniques
+* Agent system analysis and security
 
 ### Security beyond systems
+* Online scam prevention
+* Financial modeling of cyber crime
+* Cyber risk modeling and cyber insurance
 
 Research Awards
 ---------------
