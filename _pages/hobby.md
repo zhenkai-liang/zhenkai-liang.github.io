@@ -9,18 +9,18 @@ redirect_from:
 
 Sports, Music, and Research
 -----
-I like riding and repairing bicycles. Recently I am trying tennis and trumpet. 
+I like riding and repairing bicycles. Recently I am trying tennis and trumpet, but I end up writing a [paper](https://tennis-ans.github.io) about tennis. :)
 
 Through the long conditioning of a Ph.D. (“Permanent Head Damage”) training and my subsequent career, 
 I can’t help but notice how research shares deep parallels with arts, crafts, and sports. 
-In each domain, our attention is often pulled toward the most obvious target—the paper in research, 
-the ball in tennis, the sound in trumpet playing. Yet the direct output is rarely the true source of excellence. 
+In each domain, our attention is often pulled toward the most obvious target: the paper in research, 
+the ball in tennis, and the sound in trumpet playing. The direct output, however, is rarely the true source of excellence. 
 Often, the most intuitive path toward that target turns out to be the wrong one.
 
-What truly matters is the elegance of the flow: the flow of curiosity and ideas in research, 
+What truly matters is the elegance in the flow: the flow of curiosity and ideas in research, 
 the flow of body movement and coordination in sport, the flow of phrasing and breath in music. 
 Achieving the right balance often requires easing off force rather than applying more; 
-too much effort can get us stuck in the wrong equilibrium. With the flow in mind, 
+too much direct efforts lead to the wrong equilibrium. Using flow as the guiding direction, 
 once the foundational techniques are carefully practiced, the results emerge naturally—
 水到渠成 (“when the water arrives, the channel is formed”).
 
