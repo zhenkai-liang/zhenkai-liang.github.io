@@ -24,8 +24,9 @@ too much effort can get us stuck in the wrong equilibrium. With the flow in mind
 once the foundational techniques are carefully practiced, the results emerge naturally—
 水到渠成 (“when the water arrives, the channel is formed”).
 
-In all these pursuits, elegance and effectiveness form an optimization problem: 
-how to minimize effort while maximizing impact. Only after balance and efficiency are achieved should force be deliberately added, 
+In all these pursuits, achieving elegance form an optimization problem: Looking away from the direct output, 
+minimize the force to maximize the effect via finding the right muscle alignment. Only after 
+balance and efficiency are achieved should force be deliberately added, 
 transforming balance and efficiency into power and outstanding performance.
 
 <img src="https://www.comp.nus.edu.sg/~liangzk/images/hobbies.jpg" width="50%">
