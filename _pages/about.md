@@ -18,12 +18,12 @@ I'm advising the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) w
 
 I'm also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory (NCL)](https://ncl.sg) of Singapore.
 
-We are looking for curious minds to join our exploration. If you share the same passion, please do not hesitate to reach me. Curiosity is required, while skill and mindset for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Master/Ph.D. students, and postdoc research fellows.
+We are looking for curious minds to join our journey. If you share the same passion, please do not hesitate to reach me. Curiosity is required, while skill and mindset for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Master/Ph.D. students, and postdoc research fellows.
 
 
 
 Updates
-======
+------
 
 * September 2025. Our paper on language for tennis analytics won the Outstanding Paper Award at ISACE'25! 🎉 [Try TANS](https://tennis-ans.github.io)
 * August 2025. Our USENIX Security 2025 paper on PHP Fuzzing won the Outstanding Paper Award! 🎉
