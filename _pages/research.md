@@ -13,15 +13,15 @@ Research Directions
 -------------------
 Project pages to be included from my group website. 
 
-#### Software security and malicious application analysis
-* Vulnerability discovery and analysis
-* Binary analysis and protection
-* Mobile malware analysis
-
 #### System security and cyber experimentation analysis
 * Kernel mechanisms for confidential computing
 * System provence mechanisms and analysis techniques
 * Cyber experimentation as code
+
+#### Software security and malicious application analysis
+* Vulnerability discovery and analysis
+* Binary analysis and protection
+* Mobile malware analysis
 
 #### AI Security from system principles
 * Application of AI and recommendation system in software and system security
