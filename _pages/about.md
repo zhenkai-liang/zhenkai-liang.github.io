@@ -16,11 +16,9 @@ I'm advising the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) w
 
 **Be interesting people, do meaningful work** is the ethos we live by. 
 
-I'm also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory (NCL)](https://ncl.sg) of Singapore.
+I'm also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory (NCL)](https://ncl.sg) of Singapore. In NCL, we carry out research, development, and support for cyber experimentation and cyber exercise. 
 
 We are looking for curious minds to join our journey. If you share the same passion, please do not hesitate to reach me. Curiosity is required, while skill and mindset for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Master/Ph.D. students, and postdoc research fellows.
-
-
 
 Updates
 ------
