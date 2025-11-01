@@ -14,11 +14,11 @@ I'm advising the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) w
 * Abstract knowledge (提炼知识),
 * Connect facts (参悟规律).
 
-**Be interesting people, do meaningful work** is the ethos we live by. We strive to embody this ethos — to think deeply, collaborate openly, and act purposefully, seeking *elegance in thought* and *meaning in action*.
+**Be an interesting person, do meaningful work** is the ethos I live by. I strive to embody this ethos — to think deeply, collaborate openly, and act purposefully, seeking *elegance in thought* and *meaning in action*.
 
-I'm also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory (NCL)](https://ncl.sg) of Singapore. In NCL, we carry out research, development, and support for cyber experimentation and cyber exercise. 
+I am also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory (NCL)](https://ncl.sg) of Singapore. In NCL, we carry out research, development, and support for cyber experimentation and cyber exercise. 
 
-We are looking for curious minds to join our journey. If you share the same passion, please do not hesitate to reach me. Curiosity is required, while skill and mindset for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Master/Ph.D. students, and postdoc research fellows.
+I am looking for curious minds to join our journey. If you share the same passion, please do not hesitate to reach me. Curiosity is required, while skill and mindset for repairing things (such as bicycles) is a plus. Positions are available at all levels, from undergraduate researcher/interns, Master/Ph.D. students, and postdoc research fellows.
 
 Updates
 ------
