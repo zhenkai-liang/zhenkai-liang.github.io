@@ -9,11 +9,11 @@ redirect_from:
 
 I am a faculty member in the Department of Computer Science, School of Computing, National University of Singapore. I am also a co-Lead Principal Investigator of National Security R&D Lab of Singapore. 
 
-My research interests are in systems and security, including binary program analysis, system provenance analysis, cyber security experimentation, security in emerging platforms, such as Web, mobile, and Internet-of-things (IoT), and AI platforms. My research also invesigate security problems beyond the system boudary from the angle of ecnomics, finance, and risk management. I have been publishing high-impact papers in top security and software engineering conferences, and has won nine best paper awards, including Annual Computer Security Applications Conference (ACSAC), USENIX Security Symposium, and ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE). I have also won seven Teaching Excellence Award of NUS and School of Computing.
+My research interests are in systems and security, including binary program analysis, system provenance analysis, cyber security experimentation, security in emerging platforms, such as Web, mobile, and Internet-of-things (IoT), and AI platforms. My research also invesigate security problems beyond the system boudary from the angle of ecnomics, finance, and risk management. I have been publishing high-impact papers in top security and software engineering conferences, and has won nine best paper awards. I have also won seven Teaching Excellence Award of NUS and School of Computing.
 
-I have been actively served as technical committee members and editorial board members of top security conferences and journals, including ACM Conference on Computer and Communications Security (CCS), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS), and IEEE Transactions on Dependable and Secure Computing (TDSC). I am a member of the Steering Commmittee of ACM CCS and have served as a member of the Steering Group of NDSS.  
+I am a member of the Steering Commmittee of ACM CCS and have served as a member of the Steering Group of NDSS. I have served as technical committee members and editorial board members of top security conferences and journals, including ACM Conference on Computer and Communications Security (CCS), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS), and IEEE Transactions on Dependable and Secure Computing (TDSC). 
 
-I received my Ph.D. degree in Computer Science from Stony Brook University in 2006, and B.S. degrees in Computer Science and in Economics from Peking University in 1999.
+I received my Ph.D. degree in Computer Science from Stony Brook University in 2006 and B.S. degrees in Computer Science and in Economics from Peking University in 1999.
 
 
 My full CV is [here](https://www.comp.nus.edu.sg/~liangzk/papers/liangzk-cv-full.pdf). 
