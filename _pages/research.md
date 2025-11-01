@@ -16,8 +16,7 @@ Research Directions
 
 *Project pages will be included from my group website.* 
 
-### System security and cyber experimentation analysis 
-[\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/system.html)
+### System security and cyber experimentation analysis [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/system.html)
 * Kernel mechanisms for confidential computing
 * System provence mechanisms and analysis techniques
 * Cyber experimentation as code
