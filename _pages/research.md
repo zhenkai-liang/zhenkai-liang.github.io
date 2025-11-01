@@ -15,23 +15,25 @@ Research Directions
 ===================
 
 ### System security and cyber experimentation analysis 
+[\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/system.html)
 * Kernel mechanisms for confidential computing
 * System provence mechanisms and analysis techniques
 * Cyber experimentation as code
 
-[\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/system.html)
-
 ### Software security and malicious application analysis
+[\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/software.html)
 * Vulnerability discovery and analysis
 * Binary analysis and protection
 * Mobile malware analysis
 
 ### AI security from system principles
+[\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/aisys.html)
 * Application of AI and recommendation system in software and system security
 * LLM security analysis using software security techniques
 * Agent system analysis and security
 
 ### Beyond security and systems
+[\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/beyond.html)
 * Online scam prevention
 * Financial modeling of cyber crime and cyber incidents
 * Cyber insurance and cyber risk analysis
