@@ -14,7 +14,7 @@ I have also started new research explorations in security-related topics beyond 
 Research Directions
 ===================
 
-Project pages to be included from my group website. 
+*Project pages will be included from my group website.* 
 
 ### System security and cyber experimentation analysis
 * Kernel mechanisms for confidential computing
