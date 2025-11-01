@@ -26,15 +26,15 @@ Research Directions
 * Binary analysis and protection
 * Mobile malware analysis
 
-### AI Security from system principles
+### AI security from system principles
 * Application of AI and recommendation system in software and system security
 * LLM security analysis using software security techniques
 * Agent system analysis and security
 
-### Security beyond systems
+### Beyond security and systems
 * Online scam prevention
-* Financial modeling of cyber crime
-* Cyber risk modeling and cyber insurance
+* Financial modeling of cyber crime and cyber incidents
+* Cyber insurance and cyber risk analysis
 
 Research Awards
 ---------------
