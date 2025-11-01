@@ -39,20 +39,13 @@ Project pages to be included from my group website.
 Research Awards
 ---------------
 
-1. Distinguished Paper Award, the 34th USENIX Security Symposium, 2025.
-1. Distinguished Paper Award, the 2nd International Sports Analytics Confer-
-ence and Exhibition (ISACE), 2025.
-1. Best Practical Paper Award, the 27th International Symposium on Research in
-Attacks, Intrusions and Defenses (RAID), 2024.
-1. Distinguished Paper Award Honorable Mentions, the 21st Network and Dis-
-tributed System Security Symposium (NDSS), 2019.
-1. Best Paper Award, the 14th International Conference on Wireless Algorithms,
-Systems, and Applications (WASA), 2019.
-1. Best Paper Award, the 19th International Conference on Engineering of Com-
-plex Computer Systems (ICECCS), 2014.
-1. Best Paper Award, Web 2.0 Security & Privacy Workshop (W2SP), 2014.
-1. ACM SIGSOFT Distinguished Paper Award, the ESEC and ACM SIGSOFT
-Symposium on the Foundations of Software Engineering (ESEC-FSE), 2009.
-1. Best Paper Award, the 16th USENIX Security Symposium, 2007.
-1. Outstanding Paper Award, the 19th Annual Computer Security Applications
-Conference (ACSAC), 2003.
+*. Distinguished Paper Award, the 34th USENIX Security Symposium, 2025.
+*. Distinguished Paper Award, the 2nd International Sports Analytics Conference and Exhibition (ISACE), 2025.
+*. Best Practical Paper Award, the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2024.
+*. Distinguished Paper Award Honorable Mentions, the 21st Network and Distributed System Security Symposium (NDSS), 2019.
+*. Best Paper Award, the 14th International Conference on Wireless Algorithms, Systems, and Applications (WASA), 2019.
+*. Best Paper Award, the 19th International Conference on Engineering of Complex Computer Systems (ICECCS), 2014.
+*. Best Paper Award, Web 2.0 Security & Privacy Workshop (W2SP), 2014.
+*. ACM SIGSOFT Distinguished Paper Award, the ESEC and ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC-FSE), 2009.
+*. Best Paper Award, the 16th USENIX Security Symposium, 2007.
+*. Outstanding Paper Award, the 19th Annual Computer Security Applications Conference (ACSAC), 2003.
