@@ -9,9 +9,9 @@ redirect_from:
 
 Sports, Music, and Research
 -----
-I like riding and repairing bicycles. Recently I am trying tennis and trumpet. Through the long conditioning of a Ph.D. (“Permanent Head Damage”) training and my subsequent career, I end up not playing matches, but writing a [paper](https://tennis-ans.github.io) about tennis. :)
+I enjoy riding and repairing bicycles. Recently I am trying tennis and trumpet. Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
 
-I also can’t help but notice how research shares deep parallels with arts, crafts, and sports. 
+I also notice how research shares striking parallels with arts, crafts, and sports. 
 In each domain, our attention is often pulled toward the most obvious target: the paper in research, 
 the ball in tennis, and the sound in trumpet playing. The direct output, however, is rarely the true source of excellence. 
 Often, the most intuitive path toward that target turns out to be the wrong one.
