@@ -23,7 +23,7 @@ I am looking for curious minds to join our journey. If you share the same passio
 Updates
 ------
 
-* September 2025. Our paper on language for tennis analytics won the Outstanding Paper Award at ISACE'25! 🎉 [Try TANS](https://tennis-ans.github.io)
-* August 2025. Our USENIX Security 2025 paper on PHP Fuzzing won the Outstanding Paper Award! 🎉
+* September 2025. Our paper on language for tennis analytics won the Distinguished Paper Award at ISACE'25! 🎉 [Try TANS](https://tennis-ans.github.io)
+* August 2025. Our USENIX Security 2025 paper on PHP Fuzzing won the Distinguished Paper Award! 🎉
 
 More news and updates can be found on our group and lab's websites [Curiosity](https://curiosity.comp.nus.edu.sg/) and [NCL](https://ncl.sg). 
