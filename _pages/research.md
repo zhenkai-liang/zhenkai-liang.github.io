@@ -22,8 +22,8 @@ Research Directions
 
 ### Software security and malicious application analysis
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/software.html)
-* Vulnerability discovery and analysis
-* Binary analysis and protection
+* Scalable binary/program analysis for vulnerability discovery
+* Testing and analysis for non-traditional bug types
 * Mobile malware analysis
 
 ### AI security from system principles
@@ -41,8 +41,8 @@ Research Directions
 Research Awards
 ---------------
 
-* Distinguished Paper Award, the 34th USENIX Security Symposium, 2025.
 * Distinguished Paper Award, the 2nd International Sports Analytics Conference and Exhibition (ISACE), 2025.
+* Distinguished Paper Award, the 34th USENIX Security Symposium, 2025.
 * Best Practical Paper Award, the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2024.
 * Distinguished Paper Award Honorable Mentions, the 21st Network and Distributed System Security Symposium (NDSS), 2019.
 * Best Paper Award, the 14th International Conference on Wireless Algorithms, Systems, and Applications (WASA), 2019.
