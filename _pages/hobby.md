@@ -45,4 +45,4 @@ Often, the breakthrough we seek does not come from greater efforts, but from lea
 
 很多时候，我们所追求的“突破”，其实不是更努力，而是更明白如何让事情自己发生。
 
-<div style="text-align: center;"><img src="https://www.comp.nus.edu.sg/~liangzk/images/seal.jpg" width="40%"></div>
+<div style="text-align: center;"><img src="https://www.comp.nus.edu.sg/~liangzk/images/seal.jpg"></div>
