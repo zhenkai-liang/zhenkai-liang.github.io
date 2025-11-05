@@ -34,7 +34,7 @@ Often, the breakthrough we seek does not come from greater efforts, but from lea
 
 运动、音乐与研究 
 -------------
-<img src="https://www.comp.nus.edu.sg/~liangzk/images/seal.jpg">
+<img src="https://www.comp.nus.edu.sg/~liangzk/images/cname.jpg"><img src="https://www.comp.nus.edu.sg/~liangzk/images/seal.jpg">
 
 我喜欢[骑车](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg)与[修车](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)(或称：自行车逆向工程）。动手的事物让我感到一种新奇与宁静。最近我开始尝试网球和小号，这些事情看似毫不相干，却在练习的过程中，让我重新理解了“研究”的内在含义。博士训练往往漫长而严格，有人调侃Ph.D.是“永久性脑损伤” (Permenant Head Damage)。最终我没能抵挡这些训练对我的思维的影响，还是去写了一篇关于网球的[论文](https://tennis-ans.github.io). :)
 
