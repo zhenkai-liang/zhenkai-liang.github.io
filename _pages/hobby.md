@@ -43,4 +43,5 @@ Often, the breakthrough we seek does not come from greater efforts, but from lea
 这种过程是一种“优化问题”。要获得优雅的效率，就必须把注意力从结果上移开，转向理解过程本身。先让动作、思考或技巧达到自然的协调，再去逐渐增加力量并保持平衡。努力并非目标，而是平衡与效率自然积累的产物。
 
 很多时候，我们所追求的“突破”，其实不是更努力，而是更明白如何让事情自己发生。
+
 <img src="https://www.comp.nus.edu.sg/~liangzk/images/cname.jpg"><img src="https://www.comp.nus.edu.sg/~liangzk/images/seal.jpg">
