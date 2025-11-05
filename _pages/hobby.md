@@ -28,7 +28,7 @@ minimize the force to maximize the effect via finding the right muscle alignment
 balance and efficiency are achieved should force be deliberately added, 
 transforming balance and efficiency into power and outstanding performance.
 
-<img src="https://www.comp.nus.edu.sg/~liangzk/images/hobbies.jpg" width="40%" style="justify-content: center;">
+<div style="text-align: center;"><img src="https://www.comp.nus.edu.sg/~liangzk/images/hobbies.jpg" width="40%"></div>
 
 运动、音乐与研究
 -------------
