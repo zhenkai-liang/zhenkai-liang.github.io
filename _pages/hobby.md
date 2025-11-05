@@ -9,7 +9,7 @@ redirect_from:
 
 Sports, Music, and Research
 -----
-I enjoy riding and repairing bicycles. Recently I am trying tennis and trumpet. Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
+I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg) （aka bicycle reverse engineering). Recently I am trying tennis and trumpet. Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
 
 I also notice how research shares striking parallels with arts, crafts, and sports. 
 In each domain, our attention is often pulled toward the most obvious target: the ball in tennis, 
@@ -35,7 +35,7 @@ Often, the breakthrough we seek does not come from greater efforts, but from lea
 运动、音乐与研究
 -------------
 
-我喜欢[骑车](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg)与[修车](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)。动手的事物让我感到一种新奇与宁静。最近我开始尝试网球和小号，这些事情看似毫不相干，却在练习的过程中，让我重新理解了“研究”的内在含义。博士训练往往漫长而严格，有人调侃Ph.D.是“永久性脑损伤” (Permenant Head Damage)。最终我没能抵挡这些训练对我的思维的影响，还是去写了一篇关于网球的[论文](https://tennis-ans.github.io). :)
+我喜欢[骑车](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg)与[修车](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)(或称：自行车逆向工程）。动手的事物让我感到一种新奇与宁静。最近我开始尝试网球和小号，这些事情看似毫不相干，却在练习的过程中，让我重新理解了“研究”的内在含义。博士训练往往漫长而严格，有人调侃Ph.D.是“永久性脑损伤” (Permenant Head Damage)。最终我没能抵挡这些训练对我的思维的影响，还是去写了一篇关于网球的[论文](https://tennis-ans.github.io). :)
 
 然而在这样的训练中，我学到的不只是如何写论文，更是如何观察、体会和思考事物背后的系统性联系。我发现运动、音乐和研究之间存在着出乎意料的相似之处。在这三个领域中，人们往往会被最直接的目标吸引 — 运动里的网球击球、音乐中的乐器发声，和研究中的论文发表。但卓越的真正根源，从来不是这些外在的直接结果。最符合直觉、最显而易见的路径，可能很快有结果，但往往不是通向卓越的那一条，甚至会是完全背道而驰，形似神非。
 
