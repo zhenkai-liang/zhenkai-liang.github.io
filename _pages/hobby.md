@@ -28,6 +28,8 @@ minimize the force to maximize the effect via finding the right muscle alignment
 balance and efficiency are achieved should force be deliberately added, 
 transforming balance and efficiency into power and outstanding performance.
 
+Often, the breakthrough we seek does not come from greater efforts, but from learning how to let things unfold naturally.
+
 <div style="text-align: center;"><img src="https://www.comp.nus.edu.sg/~liangzk/images/hobbies.jpg" width="40%"></div>
 
 运动、音乐与研究
