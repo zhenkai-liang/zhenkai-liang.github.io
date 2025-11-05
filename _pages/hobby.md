@@ -9,7 +9,7 @@ redirect_from:
 
 Sports, Music, and Research
 -----
-I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg) （aka bicycle reverse engineering). Recently I am trying tennis and trumpet. Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
+I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)（aka bicycle reverse engineering). Recently I am trying tennis and trumpet. Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
 
 I also notice how research shares striking parallels with arts, crafts, and sports. 
 In each domain, our attention is often pulled toward the most obvious target: the ball in tennis, 
