@@ -11,14 +11,11 @@ Sports, Music, and Research
 -----
 I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)（aka bicycle reverse engineering). Recently I have been exploring tennis and trumpet. These pursuits may seem unrelated, yet through their practice, I’ve come to reinterpret the inner meaning of “research.” Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
 
-Through such training and careers, I learned how to observe and think about the systemic connections behind things. I discovered how research shares striking parallels with art, craft, and sport. 
-In each domain, our attention is often pulled toward the most obvious target: the ball in tennis, 
-the sound in trumpet playing, and the paper in research. The direct output, however, is rarely the true source of excellence. 
-The most intuitive path toward that target may yield quick results, but it often turns out to be the wrong one.
+Through such training and careers, I learned how to observe and think about the underlying systems behind phenomena. I discovered how research shares striking parallels with art, craft, and sport. In each discipline, our attention is often pulled toward the most obvious target: the ball in tennis, the sound in trumpet playing, and the paper in research. The direct output, however, is rarely the true source of excellence. The most intuitive path toward that target may yield quick results, but it often turns out to be the wrong one.
 
 What truly matters is the inner sense of flow:  the flow of body movement and coordination in sport, 
 the flow of phrasing and breath in music, and the flow of curiosity and ideas in research. 
-Achieving the right balance often requires easing off rather than applying more force. Too much direct effort leads to a false equilibrium! By respecting the natural logic of things and letting elegance and flow guide our efforts, with careful practice of foundational techniques, the results emerge naturally —
+Achieving the right balance often requires easing off rather than applying more force. Too much direct effort leads to a false equilibrium! By respecting the natural logic inherent in each discipline and letting elegance and flow guide our efforts, with careful practice of foundational techniques, the results emerge naturally —
 水到渠成 (“when the water arrives, the channel is formed”).
 
 In all these pursuits, achieving elegance is an "optimization problem:" Looking away from the direct output, 
