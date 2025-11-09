@@ -9,7 +9,7 @@ redirect_from:
 
 Sports, Music, and Research
 -----
-I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)（aka bicycle reverse engineering). Recently I have been exploring tennis and trumpet. These pursuits may seem unrelated, yet through their practice, I’ve come to reinterpret the inner meaning of “research.” Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
+I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)（aka bicycle reverse engineering). Recently I have been exploring tennis and trumpet. These pursuits may seem unrelated, yet through their practice, I have come to reinterpret the inner meaning of “research.” Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
 
 Through such training and careers, I learned how to observe and think about the underlying systems behind phenomena. I discovered how research shares striking parallels with art, craft, and sport. In each discipline, our attention is often pulled toward the most obvious target: the ball in tennis, the sound in trumpet playing, and the paper in research. The direct output, however, is rarely the true source of excellence. The most intuitive path toward that target may yield quick results, but it often turns out to be the wrong one.
 
