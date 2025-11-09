@@ -18,8 +18,7 @@ The most intuitive path toward that target may yield quick results, but it often
 
 What truly matters is the inner sense of flow:  the flow of body movement and coordination in sport, 
 the flow of phrasing and breath in music, and the flow of curiosity and ideas in research. 
-Achieving the right balance often requires easing off rather than applying more force.  
-Too much direct effort leads to a false equilibrium! By respecting the natural logic of things and letting elegance and flow guide our efforts, with careful practice of foundational techniques, the results emerge naturally —
+Achieving the right balance often requires easing off rather than applying more force. Too much direct effort leads to a false equilibrium! By respecting the natural logic of things and letting elegance and flow guide our efforts, with careful practice of foundational techniques, the results emerge naturally —
 水到渠成 (“when the water arrives, the channel is formed”).
 
 In all these pursuits, achieving elegance is an "optimization problem:" Looking away from the direct output, 
