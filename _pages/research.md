@@ -26,7 +26,7 @@ Research Directions
 * Testing and analysis for non-traditional bug types
 * Mobile malware analysis
 
-### AI security from system principles
+### AI and security from system perspective 
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/aisys.html)
 * Application of AI and recommendation system in software and system security
 * LLM security analysis using software security techniques
