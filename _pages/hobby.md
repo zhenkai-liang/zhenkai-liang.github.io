@@ -9,24 +9,22 @@ redirect_from:
 
 Sports, Music, and Research
 -----
-I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)（aka bicycle reverse engineering). Recently I am trying tennis and trumpet. Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
+I enjoy [riding bicycles](https://www.comp.nus.edu.sg/~liangzk/images/bike.jpg) and [repairing bicycles](https://www.comp.nus.edu.sg/~liangzk/images/rbike.jpg)（aka bicycle reverse engineering). Recently I have been exploring tennis and trumpet. These pursuits may seem unrelated, yet through their practice, I’ve come to reinterpret the inner meaning of “research.” Through the long conditioning of a Ph.D. (jokingly, “Permanent Head Damage”) training and my subsequent career, I can't help but write a [paper](https://tennis-ans.github.io) about tennis. :)
 
-I also notice how research shares striking parallels with arts, crafts, and sports. 
+Through such training and careers, I learned how to observe and think about the systemic connections behind things. I discovered how research shares striking parallels with art, craft, and sport. 
 In each domain, our attention is often pulled toward the most obvious target: the ball in tennis, 
 the sound in trumpet playing, and the paper in research. The direct output, however, is rarely the true source of excellence. 
-Often, the most intuitive path toward that target turns out to be the wrong one.
+The most intuitive path toward that target may yield quick results, but it often turns out to be the wrong one.
 
-What truly matters is the flow in the heart:  the flow of body movement and coordination in sport, 
+What truly matters is the inner sense of flow:  the flow of body movement and coordination in sport, 
 the flow of phrasing and breath in music, and the flow of curiosity and ideas in research. 
-Achieving the right balance often requires easing off force rather than applying more; 
-too much direct efforts lead to an incorrect equilibrium. Using the elegance in the flow as the guiding direction, 
-once the foundational techniques are carefully practiced, the results emerge naturally —
+Achieving the right balance often requires easing off rather than applying more force.  
+Too much direct effort leads to a false equilibrium! By respecting the natural logic of things and letting elegance and flow guide our efforts, with careful practice of foundational techniques, the results emerge naturally —
 水到渠成 (“when the water arrives, the channel is formed”).
 
-In all these pursuits, achieving elegance form an optimization problem: Looking away from the direct output, 
-minimize the force to maximize the effect via finding the right muscle alignment. Only after 
-balance and efficiency are achieved should force be deliberately added, 
-transforming balance and efficiency into power and outstanding performance.
+In all these pursuits, achieving elegance is an "optimization problem:" Looking away from the direct output, 
+minimize the force to maximize the effect via finding the right "muscle alignment." Only after 
+balance and efficiency are achieved should force be deliberately added, transforming harmony into power and outstanding performance. Effort itself is not the goal, but the natural outcome of alignment and composure.
 
 Often, the breakthrough we seek does not come from greater efforts, but from learning how to let things unfold naturally.
 
