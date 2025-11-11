@@ -13,7 +13,7 @@ My research interests are in systems and security, including binary program anal
 
 I am a member of the Steering Commmittee of ACM CCS and have served as a member of the Steering Group of NDSS. I have served as technical committee members and editorial board members of top security conferences and journals, including ACM Conference on Computer and Communications Security (CCS), USENIX Security Symposium, Network and Distributed System Security Symposium (NDSS), IEEE Transactions on Dependable and Secure Computing (TDSC), and ACM Transactions on Privacy and Security (TOPS). 
 
-I received my Ph.D. degree in Computer Science from Stony Brook University in 2006 and B.S. degrees in Computer Science and in Economics from Peking University in 1999.
+I received my Ph.D. degree in Computer Science from Stony Brook University in 2006 and B.S. degree in Computer Science and B.S. degree in Economics (CCER) from Peking University in 1999.
 
 
 My full CV is [here](https://www.comp.nus.edu.sg/~liangzk/papers/liangzk-cv-full.pdf). 
