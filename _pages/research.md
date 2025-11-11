@@ -35,7 +35,7 @@ Research Directions
 ### Security beyond systems
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/beyond.html)
 * Online scam prevention
-* Financial modeling of cyber crime and cyber incidents, economics of cyber security
+* Financial modeling of cyber crime and incidents, economics of cyber security
 * Cyber insurance and cyber risk analysis
 
 Research Awards
