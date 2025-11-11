@@ -14,13 +14,13 @@ I have also started new research explorations in security-related topics beyond 
 Research Directions
 ===================
 
-### System security and cyber experimentation analysis 
+### System security and cyber experimentation
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/system.html)
 * Kernel mechanisms for confidential computing
 * System provence mechanisms and analysis techniques
 * Cyber experimentation as code
 
-### Software security and malicious application analysis
+### Software security and program analysis
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/software.html)
 * Scalable binary/program analysis for vulnerability discovery
 * Testing and analysis for non-traditional bug types
@@ -30,7 +30,7 @@ Research Directions
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/aisys.html)
 * Application of AI and recommendation system in software and system security
 * LLM security analysis using software security techniques
-* Agent system analysis and security
+* Agentic system analysis and protection
 
 ### Security beyond systems
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/beyond.html)
