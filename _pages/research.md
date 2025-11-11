@@ -32,7 +32,7 @@ Research Directions
 * LLM security analysis using software security techniques
 * Agent system analysis and security
 
-### Beyond security and systems
+### Security beyond systems
 [\[Related Publications\]](https://www.comp.nus.edu.sg/~liangzk/publications/beyond.html)
 * Online scam prevention
 * Financial modeling of cyber crime and cyber incidents, economics of cyber security
