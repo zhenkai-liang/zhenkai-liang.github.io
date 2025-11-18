@@ -14,7 +14,7 @@ I'm leading the [Curiosity Reserach Group](https://curiosity.comp.nus.edu.sg) wi
 * Abstract knowledge (提炼知识),
 * Connect facts (参悟规律).
 
-**Be interesting people, do meaningful work** is the ethos we live by. We strive to embody this ethos — to think deeply, collaborate openly, and act purposefully, seeking *elegance in thought* and *meaning in action*.
+**Be interesting people, do meaningful work** is the ethos we live by. We strive to embody this ethos: to think deeply, collaborate openly, and act purposefully, seeking *elegance in thought* and *meaning in action*.
 
 I am also the co-lead Principal Investigator of [National Cybersecurity R&D Laboratory (NCL)](https://ncl.sg) of Singapore. In NCL, we carry out research, development, and support for cyber experimentation and cyber exercise. 
 
